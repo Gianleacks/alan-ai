@@ -1,0 +1,11 @@
+{
+  "name": "Alan",
+  "short_name": "Alan",
+  "description": "Assistente vocale personale, in onore di Alan Turing",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0B1D26",
+  "theme_color": "#0B1D26",
+  "orientation": "portrait",
+  "icons": []
+}
